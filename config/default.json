@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://ovi123:ovi123@cluster0.h9h14.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"token",
+    "githubClientId":"cd2c991ee1fa122c01ee",
+    "githubSecret":"f86e388f510d799faf897d242f9ced3fea43304c"
+}
